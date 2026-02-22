@@ -141,17 +141,17 @@ Centralized Dashboard and Monitoring
 
 In addition to messaging integration, Spider Delta offers a centralized administrative dashboard where authorized administrators can:
 
-Review command history
+* Review command history
 
-Monitor system activity
+* Monitor system activity
 
-Analyze training metrics
+* Analyze training metrics
 
-Configure user permissions
+* Configure user permissions
 
-Update API credentials
+* Update API credentials
 
-Generate compliance reports
+* Generate compliance reports
 
 This oversight ensures that all actions taken through messaging platforms remain transparent and auditable.
 
