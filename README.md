@@ -1,5 +1,8 @@
 ## Spider Bot Delta
 
+<img width="636" height="724" alt="boty" src="https://github.com/user-attachments/assets/4a35a847-f5d8-4038-9916-e5762543c057" />
+
+
 Spider Bot Delta is an advanced, AI‑powered cybersecurity orchestration and training platform designed to streamline defensive operations, automate structured security tasks, and enhance cyber awareness across modern digital environments. Built for network engineers, cybersecurity students, instructors, security analysts, and authorized training institutions, Spider Delta enables users to securely issue cybersecurity commands and manage defensive workflows through widely used communication platforms such as Telegram, Discord, WhatsApp, and Slack, as well as other supported social and collaboration channels.
 
 ## Platform Overview
