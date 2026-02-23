@@ -123,23 +123,23 @@ Organizations conducting internal cyber drills can use Spider Delta to coordinat
 
 Security and Compliance Focus
 
-Security is embedded at every layer of Spider Delta’s design. Key principles include:
+# Security is embedded at every layer of Spider Delta’s design. Key principles include
 
-Encrypted API communication
+* Encrypted API communication
 
-Strict authentication and access control
+* Strict authentication and access control
 
-Activity logging and audit trails
+* Activity logging and audit trails
 
-Controlled execution environments
+* Controlled execution environments
 
-Ethical use enforcement
+* Ethical use enforcement
 
 The platform emphasizes compliance with cybersecurity best practices and organizational policies. Administrators can define usage boundaries and restrict access based on user roles.
 
 Centralized Dashboard and Monitoring
 
-In addition to messaging integration, Spider Delta offers a centralized administrative dashboard where authorized administrators can:
+In addition to messaging integration, Spider Delta offers a centralized administrative dashboard where authorized administrators can
 
 * Review command history
 
